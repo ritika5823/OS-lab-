@@ -1,6 +1,6 @@
 ```c
-Name: Jash Chauhan
-PRN: 24070521242
+Name: Ritika Bhoyar
+PRN: 24070521225
 ```
 
 # Experiment 5: SJF CPU Scheduling Algorithm
@@ -21,10 +21,10 @@ SJF generally gives the minimum average waiting time among scheduling algorithms
 ## Compilation & Execution (Linux)
 ```c
 Step 1: Create file using vim
-         vim sjf_1242.c
+         vim sjf_1225.c
 
 Step 2: Compile the program
-         gcc sjf_1242.c
+         gcc sjf_1225.c
 
 Step 3: Run the program
          ./a.out
