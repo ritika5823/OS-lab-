@@ -1,6 +1,6 @@
 ```c
-Name: Jash Chauhan
-PRN: 24070521242
+Name: Ritika Bhoyar
+PRN: 24070521225
 ```
 
 # Experiment 6: Priority Based CPU Scheduling Algorithm
@@ -27,10 +27,10 @@ It can be preemptive or non-preemptive. In preemptive mode, a higher priority ar
 ## Compilation & Execution (Linux):
 ```c
 Step 1: Create file using vim
-         vim priority_1242.c
+         vim priority_1225.c
 
 Step 2: Compile the program
-         gcc priority_1242.c
+         gcc priority_1225.c
 
 Step 3: Run the program
          ./a.out
