@@ -1,6 +1,6 @@
 ```c
-Name: Jash Chauhan
-PRN: 24070521242
+Name: Ritika Bhoyar
+PRN: 24070521225
 ```
 
 # Experiment 9: Basic Shell Commands and Shell Script - Arithmetic
@@ -34,13 +34,13 @@ Bash supports arithmetic using `$(( ))` syntax, and variables are assigned witho
 ## Compilation & Execution (Linux):
 ```c
 Step 1: Create file using vim or gedit
-         gedit arith_1242.sh
+         gedit arith_1225.sh
 
 Step 2: Make the script executable
-         chmod +x arith_1242.sh
+         chmod +x arith_1225.sh
 
 Step 3: Run the script
-         ./arith_1242.sh
+         ./arith_1225.sh
 ```
 
 ## Code
