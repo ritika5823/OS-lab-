@@ -1,6 +1,6 @@
 ```c
-Name: Jash Chauhan
-PRN: 24070521242
+Name: Ritika Bhoyar
+PRN: 24070521225
 ```
 
 # Experiment 4: FCFS CPU Scheduling Algorithm
@@ -30,10 +30,10 @@ It is a non-preemptive algorithm, meaning once a process starts execution, it co
 ## Compilation & Execution (Linux):
 ```c
 Step 1: Create file using vim
-         vim fcfs_1242.c
+         vim fcfs_1225.c
 
 Step 2: Compile the program
-         gcc fcfs_1242.c
+         gcc fcfs_1225.c
 
 Step 3: Run the program
          ./a.out
