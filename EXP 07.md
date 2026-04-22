@@ -1,6 +1,6 @@
 ```c
-Name: Jash Chauhan
-PRN: 24070521242
+Name: Ritika Bhoyar
+PRN: 24070521225
 ```
 
 # Experiment 7: Banker's Algorithm for Deadlock Avoidance
@@ -27,10 +27,10 @@ If a safe sequence exists, the system is in a safe state; otherwise, it is unsaf
 ## Compilation & Execution (Linux):
 ```c
 Step 1: Create file using vim
-         vim bankers_1242.c
+         vim bankers_1225.c
 
 Step 2: Compile the program
-         gcc bankers_1242.c -o bankers_1242
+         gcc bankers_1225.c -o bankers_1242
 
 Step 3: Run the program
          ./bankers_1242
