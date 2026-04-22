@@ -1,6 +1,6 @@
 ```c
-Name: Jash Chauhan
-PRN: 24070521242
+Name: Ritika Bhoyar
+PRN: 24070521225
 ```
 
 # Experiment 8: FIFO Page Replacement Algorithm
@@ -26,10 +26,10 @@ It is simple to implement using a circular queue or pointer, but it may suffer f
 ## Compilation & Execution (Linux):
 ```c
 Step 1: Create file using vim
-         vim fifo_1242.c
+         vim fifo_1225.c
 
 Step 2: Compile the program
-         gcc fifo_1242.c
+         gcc fifo_1225.c
 
 Step 3: Run the program
          ./a.out
