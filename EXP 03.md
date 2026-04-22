@@ -1,6 +1,6 @@
 ```c
-Name: Jash Chauhan
-PRN: 24070521242
+Name: Ritika Bhoyar
+PRN: 24070521225
 ```
 
 # Experiment 3: Fork and Exec System Calls
@@ -49,13 +49,13 @@ gcc 1_fork_1242.c -o 1_fork.out
 ### 🔹 For 2_fork_1242.c
 ```bash
 # Step 1: Create/Edit file
-gedit 2_fork_1242.c
+gedit 2_fork_1225.c
 
 # Step 2: View code
-cat 2_fork_1242.c
+cat 2_fork_1225.c
 
 # Step 3: Compile
-gcc 2_fork_1242.c -o 2_fork.out
+gcc 2_fork_1225.c -o 2_fork.out
 
 # Step 4: Run
 ./2_fork.out
